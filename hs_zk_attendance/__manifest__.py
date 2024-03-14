@@ -21,7 +21,7 @@
     ],
     'license': 'LGPL-3',
     'installable': True,
-    'images': ["static/description/cover.png"],
+    'images': ["static/description/back-cover.png"],
     'auto_install': False,
     'application': True,
     'sequence': 2
