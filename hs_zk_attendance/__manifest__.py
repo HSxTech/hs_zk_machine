@@ -21,7 +21,7 @@
     ],
     'license': 'LGPL-3',
     'installable': True,
-    'images': ["static/description/zk_screenshot.jpg"],
+    'images': ["static/description/download.png"],
     'auto_install': False,
     'application': True,
     'sequence': 2
